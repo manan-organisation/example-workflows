@@ -7,7 +7,7 @@ Google Cloud support contract. To report bugs or request features in a Google
 Cloud product, please contact [Google Cloud
 support](https://cloud.google.com/support).**
 
-**NOTE: This is currently a work in progress**.
+**NOTE: This is currently a work in progress**..
 
 ## Available Examples
 
